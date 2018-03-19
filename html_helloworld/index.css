@@ -1,0 +1,42 @@
+#submit {
+  background-color: red;
+}
+
+#number {
+  color: red;
+}
+#Girls {
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+body {
+  background-color: mediumslateblue;
+}
+.olive {
+  color: lightcoral;
+  text-align: center;
+  border-style: double;
+  border-color: black;
+}
+.purple {
+  color: lavender;
+  text-align: center;
+  border-bottom-style: double;
+}
+.orangered {
+  color: darkmagenta;
+}
+.springgreen {
+  color: mediumspringgreen;
+}
+.lime {
+  color: lime;
+}
+.bordered {
+  border-style: groove;
+  color: black;
+  border-color: sienna;
+  text-align: center;
+}
